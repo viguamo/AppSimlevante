@@ -27,7 +27,7 @@ namespace DXSSMANAGER
 
         private void button_Click(object sender, RoutedEventArgs e)
         {
-           
+            MessageBox.Show("Hola nacho");
         }
     }
 }
