@@ -15,11 +15,11 @@ using System.Windows.Shapes;
 namespace DXSSMANAGER
 {
     /// <summary>
-    /// Lógica de interacción para Window1.xaml
+    /// Lógica de interacción para VicenteWindow.xaml
     /// </summary>
-    public partial class Window1 : Window
+    public partial class VicenteWindow : Window
     {
-        public Window1()
+        public VicenteWindow()
         {
             InitializeComponent();
         }
