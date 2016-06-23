@@ -31,6 +31,7 @@ namespace DXSSMANAGER
             MessageBox.Show("Hola vicente");
             MessageBox.Show("Hola JV");
             MessageBox.Show("Hola JL");
+            MessageBox.Show("Hola CRIS");
         }
     }
 }
